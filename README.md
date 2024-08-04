@@ -1,5 +1,19 @@
 <h1>Crypto-Tracker-App</h1>
+<br>
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home Page 🏡</h3>
 
+<div align='center'>
+<img src='./src/images/screenshots/homepagescreen.png'/>
+
+</div>
+<br><br>
+<h3 align='center'>Coin Page 👇</h3>
+
+<div align='center'>
+<img src='./src/images/screenshots/coinscreen.png'/>
+</div>
 <br>
 <br>
 
